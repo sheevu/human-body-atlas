@@ -1,4 +1,4 @@
-# VedaShield Anatomy 3D
+# Human Body Atlas
 
 Interactive human anatomy built with React, TypeScript, Three.js, React Three
 Fiber and Vite. Extracted from [human-anatomy-3d](https://github.com/sheevu/human-anatomy-3d)
